@@ -231,13 +231,13 @@ Defaulting to \`null\`.`}var px=Gd,mx=Kd;function hx({className:o,value:u,...a})
             .resume-container {
               max-width: none !important;
               margin: 0 !important;
-              padding: 0.75in !important;
+              padding: 0in 0.75in 0.75in 0.75in !important;
               background: white !important;
             }
             
             /* Page setup */
             @page {
-              margin: 0.5in;
+              margin: 0.3in 0.5in 0.5in 0.5in;
               size: A4;
             }
             
@@ -328,19 +328,19 @@ Defaulting to \`null\`.`}var px=Gd,mx=Kd;function hx({className:o,value:u,...a})
             
             /* Spacing adjustments for print */
             .print\\:space-y-4 > * + * {
-              margin-top: 8pt !important;
+              margin-top: 0pt !important;
             }
             
             .print\\:space-y-3 > * + * {
-              margin-top: 6pt !important;
+              margin-top: 0pt !important;
             }
             
             .print\\:space-y-2 > * + * {
-              margin-top: 4pt !important;
+              margin-top: 0pt !important;
             }
             
             .print\\:space-y-1 > * + * {
-              margin-top: 2pt !important;
+              margin-top: 0pt !important;
             }
             
             .print\\:space-y-0 > * + * {

@@ -530,7 +530,6 @@ export function Resume() {
               color: black !important;
               margin-bottom: 4pt !important;
             }
-            
             p, li {
               font-size: 9pt !important;
               color: black !important;
@@ -581,7 +580,8 @@ export function Resume() {
             /* Lists */
             ul {
               margin: 0 !important;
-              padding-left: 12pt !important;
+              padding-left: 5pt !important;
+              text-align: justify !important;
             }
             
             li {

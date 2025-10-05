@@ -311,7 +311,6 @@ Defaulting to \`null\`.`}var px=Gd,mx=Kd;function hx({className:o,value:u,...a})
               color: black !important;
               margin-bottom: 4pt !important;
             }
-            
             p, li {
               font-size: 9pt !important;
               color: black !important;
@@ -362,7 +361,8 @@ Defaulting to \`null\`.`}var px=Gd,mx=Kd;function hx({className:o,value:u,...a})
             /* Lists */
             ul {
               margin: 0 !important;
-              padding-left: 12pt !important;
+              padding-left: 5pt !important;
+              text-align: justify !important;
             }
             
             li {
